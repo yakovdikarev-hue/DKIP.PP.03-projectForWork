@@ -1,5 +1,5 @@
 namespace ReviewSamples.Modules.Variants;
-
+// Исправленная версия для варианта 6. Автор: Дикарёв Я.В.
 public class Car
 {
     public string Name { get; set; }
